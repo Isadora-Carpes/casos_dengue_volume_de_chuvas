@@ -1,4 +1,4 @@
-rocket Este repositório contém um projeto em Python que realiza a ingestão de dados utilizando a SDK do Apache Beam. O objetivo é trazer o Apache Beam para dentro do projeto e implementar todas as etapas necessárias, desde a ingestão de dados até a persistência.
+:rocket: Este repositório contém um projeto em Python que realiza a ingestão de dados utilizando a SDK do Apache Beam. O objetivo é trazer o Apache Beam para dentro do projeto e implementar todas as etapas necessárias, desde a ingestão de dados até a persistência.
 
 bar_chart O processo de ingestão de dados começa com a utilização do ReadFromText para ler os dados brutos. O dataset inclui informações sobre a quantidade de casos de dengue por cidade, bem como dados de quantidade de chuva ou precipitação meteorológica de diferentes estações.
 
